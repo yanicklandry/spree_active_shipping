@@ -49,3 +49,7 @@ en:
     priority_mail_international_medium_flat_rate_box: "USPS Priority Mail International Medium Flat Rate Box"
     priority_mail_international_large_flat_rate_box: "USPS Priority Mail International Large Flat Rate Box"
   shipping_error: "Shipping Error"
+  canada_post:
+    priority: "Canada Post Priority Courier"
+    expedited: "Canada Post Expedited"
+    regular: "Canada Post Regular"

@@ -1,0 +1,7 @@
+---
+fr:
+  canada_post:
+    priority: "Postes Canada Messageries prioritaires"
+    expedited: "Postes Canada Colis acc&#xE9;l&#xE9;r&#xE9;s"
+    regular: "Postes Canada Colis standard"
+    
